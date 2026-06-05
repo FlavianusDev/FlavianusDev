@@ -2,7 +2,7 @@
 
 # Flavianus Ferdinand Jegara
 
-![Arknights Professional Banner](./arknights.png)
+![Arknights Professional Banner](./arknights2.png)
 
 **Fullstack Web Developer**
 
