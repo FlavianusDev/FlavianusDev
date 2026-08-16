@@ -4,7 +4,7 @@
 
 ![Arknights Professional Banner](./arknights2.png)
 
-**Fullstack Web Developer**
+**FrontEnd Web Developer**
 
 [![GitHub](https://img.shields.io/github/followers/flavianusdev?color=0A66C2&style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavianusdev)
 [![Email](https://img.shields.io/badge/Email-ferdinandfjegara%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandfjegara@gmail.com)
@@ -15,12 +15,8 @@
 
 ### About Me
 
-Saya adalah **Fullstack Web Developer** yang berfokus pada pembuatan aplikasi web dan mobile yang scalable, maintainable, dan user-friendly. Saya belajar secara otodidak dari berbagai referensi dari internet. Saya sangat antusias dengan teknologi modern, clean code, dan pengalaman pengguna yang optimal. Saya selalu berusaha menulis kode yang efisien, mudah dibaca, dan siap dikembangkan oleh tim.
+Saya adalah **FrontEnd Web Developer** yang berfokus pada pembuatan aplikasi web dan mobile yang scalable, maintainable, dan user-friendly. Saya belajar secara otodidak dari berbagai referensi dari internet. Saya sangat antusias dengan teknologi modern, clean code, dan pengalaman pengguna yang optimal. Saya selalu berusaha menulis kode yang efisien, mudah dibaca, dan siap dikembangkan oleh tim.
 
-**Philosophy Saya:**
-> "Even my code get stuck, my AI will repair to me🗿"
-
----
 
 ### Tech Stack
 
@@ -29,19 +25,18 @@ Saya adalah **Fullstack Web Developer** yang berfokus pada pembuatan aplikasi we
 - Tailwind CSS, Shadcn/UI, Framer Motion  
 
 **Backend**  
-- Node.js, Express, NestJS  
+- Node.js, Express, Reactjs  
 - Python (FastAPI, Django)  
-- PostgreSQL, MySQL, MongoDB  
-- RESTful API & GraphQL  
+- MongoDB  
+- RESTful API 
 
 **Mobile**  
 - Flutter (Dart)  
 
 **DevOps & Tools**  
-- Docker, Docker Compose  
 - Git & GitHub Workflow  
-- Vercel, Railway, AWS (dasar)  
-- Linux, Nginx, PM2  
+- Vercel, AWS (dasar)  
+- Linux  
 
 **Lainnya**  
 - Figma (UI/UX collaboration)  
