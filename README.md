@@ -7,7 +7,7 @@
 **FrontEnd Web Developer**
 
 [![GitHub](https://img.shields.io/github/followers/flavianusdev?color=0A66C2&style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavianusdev)
-[![Email](https://img.shields.io/badge/Email-ferdinandfjegara%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandfjegara@gmail.com)
+[![Email](https://img.shields.io/badge/Email-flavianusdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandfjegara@gmail.com)
 
 </div>
 
