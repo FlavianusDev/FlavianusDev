@@ -4,7 +4,7 @@
 
 ![Arknights Professional Banner](./arknights2.png)
 
-**FrontEnd Web Developer**
+**Web Developer | Machine Learning | Bug Hunter | Electronic**
 
 [![GitHub](https://img.shields.io/github/followers/flavianusdev?color=0A66C2&style=for-the-badge&logo=github&logoColor=white)](https://github.com/flavianusdev)
 [![Email](https://img.shields.io/badge/Email-flavianusdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferdinandfjegara@gmail.com)
@@ -15,37 +15,39 @@
 
 ### About Me
 
-Saya adalah **FrontEnd Web Developer** yang berfokus pada pembuatan aplikasi web dan mobile yang scalable, maintainable, dan user-friendly. Saya belajar secara otodidak dari berbagai referensi dari internet. Saya sangat antusias dengan teknologi modern, clean code, dan pengalaman pengguna yang optimal. Saya selalu berusaha menulis kode yang efisien, mudah dibaca, dan siap dikembangkan oleh tim.
+I am just a teenager with a passion for learning and exploring new things. I first started studying web development in 2024, and later, driven by an interest in security issues, I joined a bug hunter program. Then, given the trend in AI adoption in 2026, I decided to delve into machine learning. I have always been interested in the IT field, in my spare time, I even enjoy building robotics with arduino, esp32 and other projects as a hobby.
 
 
 ### Tech Stack
 
-**Frontend**  
+**Web Development**  
 - Next.js 14/15, React, TypeScript  
 - Tailwind CSS, Shadcn/UI, Framer Motion  
-
-**Backend**  
 - Node.js, Express, Reactjs  
 - Python (FastAPI, Django)  
 - MongoDB  
 - RESTful API 
 
 **Mobile**  
-- Flutter (Dart)  
+- Kotlin  
+
+**Machine Learning**  
+- Python
+- Tensor
 
 **DevOps & Tools**  
 - Git & GitHub Workflow  
-- Vercel, AWS (dasar)  
+- Vercel, AWS
 - Linux  
 
-**Lainnya**  
+**Other**  
 - Figma (UI/UX collaboration)  
 
 ---
 
 ### Let's Connect
 
-Saya terbuka untuk diskusi mengenai peluang kerja, kolaborasi proyek, atau sekadar berbagi pengalaman seputar teknologi.
+I am open to discussions regarding job opportunities, project collaborations, or simply sharing experiences related to technology.
 
 - **Email**: flavianusdev@gmail.com  
 - **GitHub**: [github.com/flavianusdev](https://github.com/flavianusdev)  
@@ -57,6 +59,6 @@ Saya terbuka untuk diskusi mengenai peluang kerja, kolaborasi proyek, atau sekad
 
 **"Crafting digital experiences with precision and purpose."**
 
-*Terima kasih telah mengunjungi profil saya.*
+*Thank you for visiting my profile.*
 
 </div>
