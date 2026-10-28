@@ -47,7 +47,7 @@ Saya adalah **FrontEnd Web Developer** yang berfokus pada pembuatan aplikasi web
 
 Saya terbuka untuk diskusi mengenai peluang kerja, kolaborasi proyek, atau sekadar berbagi pengalaman seputar teknologi.
 
-- **Email**: ferdinandfjegara@gmail.com  
+- **Email**: flavianusdev@gmail.com  
 - **GitHub**: [github.com/flavianusdev](https://github.com/flavianusdev)  
 - **Location**: Sintang, West Kalimantan, Indonesia
 
